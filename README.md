@@ -1,9 +1,9 @@
 # Hi, I'm Anisha Reddy 👋
+🚀 I design and build scalable backend systems, event-driven architectures, and large-scale data pipelines using Java, Kafka, Spark, and AWS.
+
 
 🎓 MS in Information Systems & Technology @ University of North Texas  
 💻 Software Engineer focused on **Distributed Systems, Backend & Data Engineering**
-
-I enjoy building scalable backend systems, real-time data pipelines, and microservices using modern cloud-native tools.
 
 ---
 
@@ -13,6 +13,13 @@ I enjoy building scalable backend systems, real-time data pipelines, and microse
 - **Data & Streaming:** Apache Kafka, Apache Spark (PySpark)  
 - **Cloud & DevOps:** AWS, Docker, GitHub Actions  
 - **Databases:** MySQL, PostgreSQL
+
+
+## 📌 Currently Working With
+- Apache Kafka (event-driven systems)
+- Apache Spark / PySpark (data pipelines)
+- Spring Boot microservices
+- AWS & Docker
 
 ---
 

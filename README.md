@@ -3,13 +3,15 @@
 🎓 MS in Information Systems & Technology @ University of North Texas  
 💻 Software Engineer focused on **Distributed Systems, Backend & Data Engineering**
 
+I enjoy building scalable backend systems, real-time data pipelines, and microservices using modern cloud-native tools.
+
 ---
 
-## 🔧 Tech Stack
-- **Languages:** Java, Python, SQL
-- **Backend:** Spring Boot, REST APIs, Microservices
-- **Data & Streaming:** Apache Kafka, Apache Spark (PySpark)
-- **Cloud & DevOps:** AWS, Docker, GitHub Actions
+## 🛠 Tech Stack
+- **Languages:** Java, Python, SQL  
+- **Backend:** Spring Boot, REST APIs, Microservices  
+- **Data & Streaming:** Apache Kafka, Apache Spark (PySpark)  
+- **Cloud & DevOps:** AWS, Docker, GitHub Actions  
 - **Databases:** MySQL, PostgreSQL
 
 ---
@@ -34,10 +36,10 @@ Full-stack HR management system for performance tracking and appraisal automatio
 
 ---
 
-## 📌 What I’m Looking For
+## 🔍 What I’m Looking For
 - Software Engineer / Backend Engineer roles  
 - Data Engineer / Platform roles  
-- Internships & full-time opportunities | 2026 MS graduate
+- Internship & Full-time opportunities (MS 2026)
 
 
 ---

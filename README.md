@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Anisha Reddy 👋
 
-<!--
-**AnishaB123/AnishaB123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Information Systems & Technology @ University of North Texas  
+💻 Software Engineer focused on **Distributed Systems, Backend & Data Engineering**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages:** Java, Python, SQL
+- **Backend:** Spring Boot, REST APIs, Microservices
+- **Data & Streaming:** Apache Kafka, Apache Spark (PySpark)
+- **Cloud & DevOps:** AWS, Docker, GitHub Actions
+- **Databases:** MySQL, PostgreSQL
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Kafka Event-Driven System
+Event-driven backend system demonstrating Kafka producer-consumer architecture  
+🔗 https://github.com/AnishaB123/kafka-event-driven-system
+
+### 🔹 Spark Data Processing Pipeline
+Distributed data processing pipeline using Apache Spark for large-scale transformations  
+🔗 https://github.com/AnishaB123/spark-data-processing-pipeline
+
+### 🔹 Spring Boot Microservices API
+REST APIs built using Spring Boot to demonstrate microservices-based architecture  
+🔗 https://github.com/AnishaB123/springboot-microservices-api
+
+### 🔹 Employee Performance Management System
+Full-stack HR management system for performance tracking and appraisal automation  
+🔗 https://github.com/AnishaB123/Employee-Performance-Management-System
+
+---
+
+## 📌 What I’m Looking For
+- Software Engineer / Backend Engineer roles  
+- Data Engineer / Platform roles  
+- Internships & full-time opportunities | 2026 MS graduate
+
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/anisha-reddy-bojja/
+- GitHub: https://github.com/AnishaB123

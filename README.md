@@ -23,6 +23,27 @@
 
 ---
 
+## 💼 Experience
+
+### Software Engineer — Oracle
+- Built event-driven systems using Kafka handling 5M+ events/day  
+- Developed Spark pipelines improving efficiency by 40%  
+- Optimized backend performance by 60%  
+
+### Software Engineer — Hexaware Technologies
+- Migrated monolith to microservices (4× throughput)  
+- Improved system performance by 50%  
+
+---
+
+## 💡 What I Bring
+
+- Experience building scalable distributed systems  
+- Strong backend development using microservices  
+- Real-time data processing with Kafka & Spark  
+- Cloud deployment using AWS  
+---
+
 ## 🚀 Featured Projects
 
 ### 🔹 Kafka Event-Driven System
